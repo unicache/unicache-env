@@ -32,7 +32,7 @@ Pass this string to `gym.make` to make a environment, for example, we choose "ca
 
 ```Python
 import gym
-import gym_cache
+import unicache_env
 env = gym.make("cache-movielens-0.0001-full-v0")
 ```
 
