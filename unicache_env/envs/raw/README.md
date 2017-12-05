@@ -1,0 +1,1 @@
+Currently only MovieLens dataset is opened. Please download from the site of MovieLens. What we use is the [20M version](https://grouplens.org/datasets/movielens/20m/). Unzip it and copy `ratings.csv` here (into this directory).
